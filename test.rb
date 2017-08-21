@@ -13,3 +13,4 @@ puts "Hello, #{str}!"
 
 school = "Gonzaga"
 #=> school
+school
