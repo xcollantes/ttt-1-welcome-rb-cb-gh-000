@@ -8,3 +8,8 @@ puts x
 
 str = 1
 puts "Hello, #{str}!"
+
+
+
+school = "Gonzaga"
+#=> school
