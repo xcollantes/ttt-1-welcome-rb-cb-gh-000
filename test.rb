@@ -5,4 +5,6 @@ x = m + n
 puts x
 
 
+
+str = "Vero"
 puts "Hello, #{str}!"
