@@ -6,5 +6,5 @@ puts x
 
 
 
-str = "John"
+str = 1
 puts "Hello, #{str}!"
